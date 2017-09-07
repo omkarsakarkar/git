@@ -1,2 +1,0 @@
-first file on tom
-check git stash-used for if we need to leave this project for some time to work on another project and come back
